@@ -24,4 +24,4 @@ python manage.py runserver
 ```
 
 ## Where to find Me
-visit My [Website](https://shyam999.github.io)
+visit My [Website](https://sanjaysblog.netlify.app/)
