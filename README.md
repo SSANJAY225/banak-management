@@ -5,8 +5,7 @@
 ## Installation:
 **1.Clone Repo**
 ```sh
-git clone https://github.com/shyam999/ParagonBank.git
-```
+https://github.com/SSANJAY225/banak-management
 **2.Setup Virtualenv & Install Requirements**
 ```sh
 virtualenv env
